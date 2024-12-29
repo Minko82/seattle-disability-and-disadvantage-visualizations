@@ -1,10 +1,14 @@
 # 🌟 Socioeconomic and Health Disparities in Seattle
 
+## 📝 **Project Description**
+
 This project visualizes **socioeconomic disadvantage** and **health outcomes** in Seattle, using **Altair** to create interactive, data-driven visualizations. The data includes metrics like socioeconomic disadvantage scores, health scores, and percentages of adults with disabilities.
+
+<br>
 
 ---
 
-## ✨ Features
+## ✨ **Features**
 
 - 📊 **Scatterplots**: Explore relationships between socioeconomic disadvantage and health outcomes.
 - 🔄 **Interactive Dropdowns**: Filter data by equity priority groups for deeper insights.
@@ -16,7 +20,7 @@ This project visualizes **socioeconomic disadvantage** and **health outcomes** i
 
 ---
 
-## 📂 Dataset
+## 📂 **Dataset**
 
 The data is sourced from a GeoJSON file with features like:
 - **SOCIOECON_DISADV_SCORE**: Socioeconomic Disadvantage Score.
@@ -29,7 +33,7 @@ The data is sourced from a GeoJSON file with features like:
 
 ---
 
-## 🛠️ Installation
+## 🛠️ **Installation**
 
 ### **Dependencies**
 - Python 3.x
@@ -46,7 +50,7 @@ pip install altair pandas vega_datasets
 
 ---
 
-## 🎨 Visualizations
+## 🎨 **Visualizations**
 
 
 <br>
@@ -61,7 +65,7 @@ pip install altair pandas vega_datasets
 
 ---
 
-## 🛠️ Tools and Libraries
+## 💻 **Technologies and Tools**
 - **Altair:** Declarative visualization library for Python.
 - **Pandas:** For data manipulation and processing.
 - **Interactive Features:** Dropdowns, brushing, and tooltips for better exploration.
