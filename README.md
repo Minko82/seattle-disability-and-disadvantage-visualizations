@@ -55,13 +55,6 @@ pip install altair pandas vega_datasets
 
 <br>
 
----
-
-## 📊 Key Insights
-- **Socioeconomic Disadvantage vs. Health:** Clear patterns emerge, highlighting areas needing equity interventions.
-- **Obesity and Asthma Correlation:** Interactive regression reveals trends in health conditions.
-
-<br>
 
 ---
 
