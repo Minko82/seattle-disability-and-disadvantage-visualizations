@@ -33,17 +33,13 @@ The data is sourced from a GeoJSON file with features like:
 
 ---
 
-## 🛠️ **Installation**
+## 🚀 **Getting Started**
 
-### **Dependencies**
-- Python 3.x
-- Altair
-- Pandas
+### **Installation**
 
-Install required libraries with:
+To run the visualizations, install the required libraries:
 ```bash
 pip install altair pandas vega_datasets
-
 ```
 
 <br>
