@@ -2,7 +2,7 @@
 
 ## 📝 **Project Description**
 
-This project visualizes **socioeconomic disadvantage** and **health outcomes** in Seattle, using **Altair** to create interactive, data-driven visualizations. The data includes metrics like socioeconomic disadvantage scores, health scores, and percentages of adults with disabilities.
+This project uses Altair to visualize socioeconomic disadvantage and health outcomes in Seattle, showcasing metrics like disadvantage scores, health scores, and disability percentages.
 
 <br>
 
