@@ -8,18 +8,6 @@ This project uses Altair to visualize socioeconomic disadvantage and health outc
 
 ---
 
-## ✨ **Features**
-
-- 📊 **Scatterplots**: Explore relationships between socioeconomic disadvantage and health outcomes.
-- 🔄 **Interactive Dropdowns**: Filter data by equity priority groups for deeper insights.
-- 🔍 **Brushing and Linking**: Select data points and see linked views across multiple charts.
-- 📈 **Regression Lines**: Identify trends in relationships between variables like obesity and asthma.
-- 🌈 **Color-coded Heatmaps**: Highlight intensity in various metrics over time.
-
-<br>
-
----
-
 ## 📂 **Dataset**
 
 The data is sourced from a GeoJSON file with features like:
@@ -28,19 +16,6 @@ The data is sourced from a GeoJSON file with features like:
 - **PCT_ADULT_WITH_DISABILITY**: Percentage of adults with disabilities.
 - **PCT_ADULT_WITH_OBESITY**: Percentage of adults with obesity.
 - **PCT_ADULT_WITH_ASTHMA**: Percentage of adults with asthma.
-
-<br>
-
----
-
-## 🚀 **Getting Started**
-
-### **Installation**
-
-To run the visualizations, install the required libraries:
-```bash
-pip install altair pandas vega_datasets
-```
 
 <br>
 
@@ -58,3 +33,20 @@ pip install altair pandas vega_datasets
 - **Altair:** Declarative visualization library for Python.
 - **Pandas:** For data manipulation and processing.
 - **Interactive Features:** Dropdowns, brushing, and tooltips for better exploration.
+
+<br>
+
+---
+
+## 🚀 **How to Use**
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Minko82/Seattle-Disability-and-Disadvantage-Visualizations.git
+   ```
+2. Open the Jupyter Notebook to interactively explore the data and visualizations:
+   ```bash
+   jupyter notebook seattle-disability-vis.ipynb
+   ```
+
+
