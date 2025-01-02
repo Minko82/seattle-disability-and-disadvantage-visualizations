@@ -5,9 +5,27 @@
 This project uses Altair to visualize socioeconomic disadvantage and health outcomes in Seattle, showcasing metrics like disadvantage scores, health scores, and disability percentages.
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/abe728b6-14f5-406c-9bfe-60c5d0e89619" alt="Visualization Cover" width="30%">
-</p>
+<table align="center" style="border: 2px solid white; border-collapse: separate; border-spacing: 15px; width: 100%;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/e0ab108b-2bf9-4277-848d-1806b9131bb3" alt="Visualization 4" width="250">
+      <br>
+      <p>Interactive Health Trends</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/078c3550-f209-4dc3-ae0e-813cd3d73655" alt="Visualization 5" width="250">
+      <br>
+      <p>Comparative Disability Metrics</p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/c1a215e8-3bd6-4647-92b2-f803468616e9" alt="Visualization 6" width="250">
+      <br>
+      <p>Socioeconomic Data Map</p>
+    </td>
+  </tr>
+</table>
+
+
 
 
 <br>
