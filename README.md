@@ -39,7 +39,7 @@ The data is sourced from a GeoJSON file with features like:
 
 ## 🚀 **How to Use**
 
-### **Option 1: Run with Google Colab (Preferred)**
+### **Option 1: Run with Google Colab (Recommended)**
 1. Upload the **seattle-disability-vis.ipynb** notebook to Google Colab
    
 2. Update Altair:
@@ -54,7 +54,6 @@ The data is sourced from a GeoJSON file with features like:
 3. Run the Notebook:
    
    Execute all cells in the notebook to generate visualizations and analyze data.
-
 
 ---
 
@@ -71,9 +70,8 @@ Open the notebook using Jupyter:
    ```bash
    jupyter notebook seattle-disability-vis.ipynb
    ```
-
----
    
+---
 
 ### **Option 3: Run with Python Command Line**
 
