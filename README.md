@@ -4,6 +4,12 @@
 
 This project uses Altair to visualize socioeconomic disadvantage and health outcomes in Seattle, showcasing metrics like disadvantage scores, health scores, and disability percentages.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/abe728b6-14f5-406c-9bfe-60c5d0e89619" alt="Visualization Cover" width="30%">
+</p>
+
+
 <br>
 
 ---
@@ -22,6 +28,31 @@ The data is sourced from a GeoJSON file with features like:
 ---
 
 ## 🎨 **Visualizations**
+
+**1. Accessibility and Zoom**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/387328b3-c0ba-463c-80d5-7ed126dda687" alt="An interactive visualization with Accessibility and Zoom, showing disadvantage and disability in Seattle" width="50%">
+</p>
+
+**2. Dropdown Menu**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca5569c9-2651-449e-a98c-e86562abcaf4" alt="An interactive visualization with a Dropdown Menu, comparing disadvantage and disability with obesity and asthma" width="50%">
+</p>
+
+**3. Brush and Link - Multiple Selections**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0ab108b-2bf9-4277-848d-1806b9131bb3" alt="An interactive visualization with Brush and Link between Multiple Selections, comparing disadvantage and disability with obesity and asthma" width="50%">
+</p>
+
+**5.  Interactive Legend**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/078c3550-f209-4dc3-ae0e-813cd3d73655" alt="An interactive visualization with an Interactive Legend, showing disadvantage and disability in Seattle " width="50%">
+</p>
+
+**6. Strip Plots + Brushing**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1a215e8-3bd6-4647-92b2-f803468616e9" alt="An interactive visualization with brushing and strip plots, showing disadvantage and disability in Seattle" width="50%">
+</p>
 
 
 <br>
