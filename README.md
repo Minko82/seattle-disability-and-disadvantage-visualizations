@@ -32,7 +32,6 @@ The data is sourced from a GeoJSON file with features like:
 ## 💻 **Technologies and Tools**
 - **Altair:** Declarative visualization library for Python.
 - **Pandas:** For data manipulation and processing.
-- **Interactive Features:** Dropdowns, brushing, and tooltips for better exploration.
 
 <br>
 
@@ -40,10 +39,8 @@ The data is sourced from a GeoJSON file with features like:
 
 ## 🚀 **How to Use**
 
-This project can be run using three different methods: Jupyter Notebook, Python Command Line, or Google Colab. Follow the instructions below based on your preferred setup.
-
-#### Option 1: Run with Google Colab (Preferred)
-1. Upload the notebook to Google Colab
+### **Option 1: Run with Google Colab (Preferred)**
+1. Upload the **seattle-disability-vis.ipynb** notebook to Google Colab
    
 2. Update Altair:
    
@@ -52,14 +49,16 @@ This project can be run using three different methods: Jupyter Notebook, Python 
    pip install -U altair vega_datasets
    ```
 
-   After running this, go to Runtime > Restart Runtime in the Colab menu.
+   After running this, go to **Runtime > Restart Runtime** in the Colab menu.
 
 3. Run the Notebook:
    
-Execute all cells in the notebook to generate visualizations and analyze data.
+   Execute all cells in the notebook to generate visualizations and analyze data.
 
 
-#### Option 2: Run with Jupyter Notebook
+---
+
+### **Option 2: Run with Jupyter Notebook**
 1. Clone and open the repository:  
    ```bash
    git clone https://github.com/Minko82/Seattle-Disability-and-Disadvantage-Visualizations.git
@@ -70,10 +69,13 @@ Execute all cells in the notebook to generate visualizations and analyze data.
 Open the notebook using Jupyter:
 
    ```bash
-   jupyter notebook notebooks/chicago_potholes_analysis.ipynb
+   jupyter notebook seattle-disability-vis.ipynb
    ```
 
-#### Option 3: Run with Python Command Line
+---
+   
+
+### **Option 3: Run with Python Command Line**
 
 1. Clone and open the repository:  
    ```bash
