@@ -65,7 +65,6 @@ The data is sourced from a GeoJSON file with features like:
    ```
 
 2. Launch the Notebook:
-Open the notebook using Jupyter:
 
    ```bash
    jupyter notebook seattle-disability-vis.ipynb
