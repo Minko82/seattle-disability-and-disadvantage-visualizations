@@ -4,40 +4,6 @@
 
 This project uses Altair to visualize socioeconomic disadvantage and health outcomes in Seattle, showcasing metrics like disadvantage scores, health scores, and disability percentages.
 
-
-<table align="center" style="border: 2px solid white; border-collapse: separate; border-spacing: 15px; width: 100%;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/078c3550-f209-4dc3-ae0e-813cd3d73655" alt="Visualization 5" width="350">
-      <br>
-      <p>Comparative Disability Metrics</p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/c1a215e8-3bd6-4647-92b2-f803468616e9" alt="Visualization 6" width="310">
-      <br>
-      <p>Socioeconomic Data Map</p>
-    </td>
-  </tr>
-</table>
-
-
-
-
-<br>
-
----
-
-## 📂 **Dataset**
-
-The data is sourced from a GeoJSON file with features like:
-- **SOCIOECON_DISADV_SCORE**: Socioeconomic Disadvantage Score.
-- **HEALTH_DISADV_SCORE**: Health Disadvantage Score.
-- **PCT_ADULT_WITH_DISABILITY**: Percentage of adults with disabilities.
-- **PCT_ADULT_WITH_OBESITY**: Percentage of adults with obesity.
-- **PCT_ADULT_WITH_ASTHMA**: Percentage of adults with asthma.
-
-<br>
-
 ---
 
 ## 🎨 **Visualizations**
@@ -70,8 +36,21 @@ The data is sourced from a GeoJSON file with features like:
 
 <br>
 
+---
+
+## 📂 **Dataset**
+
+The data is sourced from a GeoJSON file with features like:
+- **SOCIOECON_DISADV_SCORE**: Socioeconomic Disadvantage Score.
+- **HEALTH_DISADV_SCORE**: Health Disadvantage Score.
+- **PCT_ADULT_WITH_DISABILITY**: Percentage of adults with disabilities.
+- **PCT_ADULT_WITH_OBESITY**: Percentage of adults with obesity.
+- **PCT_ADULT_WITH_ASTHMA**: Percentage of adults with asthma.
+
+<br>
 
 ---
+
 
 ## 💻 **Technologies and Tools**
 - **Altair:** Declarative visualization library for Python.
@@ -128,4 +107,3 @@ The data is sourced from a GeoJSON file with features like:
    ```bash
    python Visualizations.py
    ```
-
