@@ -7,31 +7,39 @@ This project uses Altair to visualize socioeconomic disadvantage and health outc
 ---
 
 ## 🎨 **Visualizations**
-
-**1. Accessibility and Zoom**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/387328b3-c0ba-463c-80d5-7ed126dda687" alt="An interactive visualization with Accessibility and Zoom, showing disadvantage and disability in Seattle" width="50%">
-</p>
-
-**2. Dropdown Menu**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ca5569c9-2651-449e-a98c-e86562abcaf4" alt="An interactive visualization with a Dropdown Menu, comparing disadvantage and disability with obesity and asthma" width="50%">
-</p>
-
-**3. Brush and Link - Multiple Selections**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e0ab108b-2bf9-4277-848d-1806b9131bb3" alt="An interactive visualization with Brush and Link between Multiple Selections, comparing disadvantage and disability with obesity and asthma" width="50%">
-</p>
-
-**5.  Interactive Legend**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/078c3550-f209-4dc3-ae0e-813cd3d73655" alt="An interactive visualization with an Interactive Legend, showing disadvantage and disability in Seattle " width="50%">
-</p>
-
-**6. Strip Plots + Brushing**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c1a215e8-3bd6-4647-92b2-f803468616e9" alt="An interactive visualization with brushing and strip plots, showing disadvantage and disability in Seattle" width="50%">
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <strong>Accessibility and Zoom</strong>
+      <br>
+      <img src="https://github.com/user-attachments/assets/387328b3-c0ba-463c-80d5-7ed126dda687" alt="An interactive visualization with Accessibility and Zoom, showing disadvantage and disability in Seattle" width="80%">
+    </td>
+    <td align="center">
+      <strong>Dropdown Menu</strong>
+      <br>
+      <img src="https://github.com/user-attachments/assets/ca5569c9-2651-449e-a98c-e86562abcaf4" alt="An interactive visualization with a Dropdown Menu, comparing disadvantage and disability with obesity and asthma" width="90%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Brush and Link - Multiple Selections</strong>
+      <br>
+      <img src="https://github.com/user-attachments/assets/e0ab108b-2bf9-4277-848d-1806b9131bb3" alt="An interactive visualization with Brush and Link between Multiple Selections, comparing disadvantage and disability with obesity and asthma" width="90%">
+    </td>
+    <td align="center">
+      <strong>Interactive Legend</strong>
+      <br>
+      <img src="https://github.com/user-attachments/assets/078c3550-f209-4dc3-ae0e-813cd3d73655" alt="An interactive visualization with an Interactive Legend, showing disadvantage and disability in Seattle" width="80%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Strip Plots + Brushing</strong>
+      <br>
+      <img src="https://github.com/user-attachments/assets/c1a215e8-3bd6-4647-92b2-f803468616e9" alt="An interactive visualization with brushing and strip plots, showing disadvantage and disability in Seattle" width="50%">
+    </td>
+  </tr>
+</table>
 
 
 <br>
