@@ -13,7 +13,7 @@ This project uses Altair to visualize socioeconomic disadvantage and health outc
       <p>Comparative Disability Metrics</p>
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/c1a215e8-3bd6-4647-92b2-f803468616e9" alt="Visualization 6" width="300">
+      <img src="https://github.com/user-attachments/assets/c1a215e8-3bd6-4647-92b2-f803468616e9" alt="Visualization 6" width="310">
       <br>
       <p>Socioeconomic Data Map</p>
     </td>
