@@ -1,8 +1,9 @@
-# 🌟 Socioeconomic and Health Disparities in Seattle
+# Data Visualization
+## 🌟 Socioeconomic and Health Disparities in Seattle
 
-## 📝 **Project Description**
+### 📝 **Project Description**
 
-This project uses Altair to visualize socioeconomic disadvantage and health outcomes in Seattle, showcasing metrics like disadvantage scores, health scores, and disability percentages.
+A **Python**-based data visualization project using Altair to explore socioeconomic disadvantage and health outcomes in Seattle, showcasing metrics like **disadvantage scores**, **health scores**, and **disability percentages**.
 
 ---
 
